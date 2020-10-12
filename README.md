@@ -1,2 +1,2 @@
 # AlexaQuizbowl
-This repository is for the source code for the alexa skill Scholastic Bowl
+This repository is for the source code for the alexa skill, Scholastic Bowl
